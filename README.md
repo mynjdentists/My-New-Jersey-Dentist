@@ -7,16 +7,20 @@
 <li>Science-based care</li>
 </ul>
 <h1>About Us:</h1>
-<p>The Best Dentist in Hackensack, Bergen County.<br>If you are looking for a highly trained, experienced, and skilled<span>&nbsp;</span><a href="https://mynjdentist.com/">dentist in Hackensack</a>, you have come to the right place. At our practice, you will receive the highest quality, individualized, compassionate, and patient-centric dental care using evidence-based and time-tested treatments. Whether you need<span>&nbsp;</span><a href="https://mynjdentist.com/cosmetic-dentistry/">cosmetic dentistry</a>, orthodontics, periodontics, or pediatric dentistry, board-certified dentists at My New Jersey Dentist will ensure you are safe and comfortable while receiving the highest quality conservative dental care to preserve your beautiful smile and achieve optimal oral health and overall well-being. Not only can you trust us with your teeth, but your children&rsquo;s teeth as well.&nbsp;</p>
+<p>The Best Dentist in Hackensack, Bergen County.<br>If you are looking for a highly trained, experienced, and skilled<span>&nbsp;</span><a href="https://mynjdentist.com/">dentist in Hackensack</a>, you have come to the right place. At our practice, you will receive the highest quality, individualized, compassionate, and patient-centric dental care using evidence-based and time-tested treatments. Whether you need<span>&nbsp;</span>cosmetic dentistry, orthodontics, periodontics, or pediatric dentistry, board-certified dentists at My New Jersey Dentist will ensure you are safe and comfortable while receiving the highest quality conservative dental care to preserve your beautiful smile and achieve optimal oral health and overall well-being. Not only can you trust us with your teeth, but your children&rsquo;s teeth as well.&nbsp;</p>
 <p>Over the years, our dental center gained a local reputation for excellent and gentle dental care, using the latest state-of-the-art equipment and cutting-edge technology, upholding the strictest sterilization techniques. Many people may feel anxious about visiting the dentist, so we aim to make your visit with us as pain and anxiety-free as possible. Our mission is to educate our patients about all of their oral health care options and help guide them to choose a treatment plan that is most suitable and appropriate for their needs.</p>
 <h1>Practice Areas:</h1>
-<ul>
-<li><a href="https://mynjdentist.com/dental-implants/">dental implants</a></li>
-<li>full teeth implants</li>
-<li><a href="https://mynjdentist.com/orthodontics/">orthodontist</a></li>
-<li>kids dentist</li>
-<li><a href="https://mynjdentist.com/restorative-dentistry/porcelain-crowns/">dental crowns</a></li>
-<li>root canal</li>
+<ul class="two-col">
+<li><a href="https://mynjdentist.com/cosmetic-dentistry/">Cosmetic Dentistry</a></li>
+<li><a href="https://mynjdentist.com/restorative-dentistry/">Restorative Dentistry</a></li>
+<li><a href="https://mynjdentist.com/dental-implants/">Implant Dentistry</a></li>
+<li><a href="https://mynjdentist.com/family-dentistry/">Family Dentistry</a></li>
+<li><a href="https://mynjdentist.com/pediatric-dentistry/">Pediatric Dentistry</a></li>
+<li><a href="https://mynjdentist.com/orthodontics/">Orthodontics</a></li>
+<li><a href="https://mynjdentist.com/periodontics/">Periodontics</a></li>
+<li><a href="https://mynjdentist.com/endodontics/">Endodontics</a></li>
+<li><a href="https://mynjdentist.com/preventive-dentistry/">Preventive Dentistry</a></li>
+<li><a href="https://mynjdentist.com/sedation-dentistry/">Sedation Dentistry</a></li>
 </ul>
 <h1>Location:</h1>
 <p>Google maps:<span>&nbsp;</span><a href="https://maps.app.goo.gl/oksyfTuQodLzAix68">https://maps.app.goo.gl/oksyfTuQodLzAix68</a></p>
